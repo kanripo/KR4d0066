@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南陽集
-#+DATE: 2020-03-31 11:34:07.287743
+#+DATE: 2020-03-31 11:34:07.563374
 #+PROPERTY: ID KR4d0066
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR4d0066_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -29,7 +29,7 @@
 　　送王二廣淵簽書洛中¶
 ¶
 　　吾嘗登嵩丘下視伊與洛王都一何壯氣象鬱囘礴又¶
-聞彼其下地美民俗樂朱宫待遊幸&KR0444;窕飛觀閣氣交¶
+聞彼其下地美民俗樂朱宫待遊幸窈窕飛觀閣氣交¶
 <pb:KR4d0066_WYG_006-2a>¶
 卉木茂竒艷或可愕清渠碧玉色左右隨釃鑿丹櫻結¶
 春實紫笋翻夏籜喟予抱幽恨神往迹屢却羨君署吏¶

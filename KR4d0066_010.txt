@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南陽集
-#+DATE: 2020-03-31 11:34:07.321163
+#+DATE: 2020-03-31 11:34:07.596826
 #+PROPERTY: ID KR4d0066
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4d0066_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -462,7 +462,7 @@
 　　和仲㢲在髙陽日作詩見懷而不見寄¶
 ¶
 　　常記當年並馬鞍翛然無事世塵間獨憐交契如君少¶
-仍喜官曹共我閒却顧&KR0199;遊空歲月欲傳佳句邈河關¶
+仍喜官曹共我閒却顧舊遊空歲月欲傳佳句邈河關¶
 從今會合尤須數此别相㸔鬢已斑¶
 ¶
 　　王巖叟招飲南園(得殘字)¶

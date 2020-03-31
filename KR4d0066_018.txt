@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南陽集
-#+DATE: 2020-03-31 11:34:07.388393
+#+DATE: 2020-03-31 11:34:07.663981
 #+PROPERTY: ID KR4d0066
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR4d0066_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -83,7 +83,7 @@
 ¶
 　　勅某氏爾之弟寜篤同生之恩願納官秩祈錫爾寵朕¶
 甚嘉之兹啟邑封之大以為閨闑之榮徃綏夀康益懋¶
-柔&KR0530;可¶
+柔哲可¶
 ¶
 　　故工部郎中充天章閣待制許元親姪琳可試¶
 監簿¶

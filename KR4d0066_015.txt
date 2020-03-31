@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南陽集
-#+DATE: 2020-03-31 11:34:07.361713
+#+DATE: 2020-03-31 11:34:07.637470
 #+PROPERTY: ID KR4d0066
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR4d0066_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -295,7 +295,7 @@
 ¶
 　　門下國家設禁衛之兵所以崇乎武備命良能之帥所¶
 以式是戎昭眷兹勲舊之臣克勵靖恭之節洪惟聖考¶
-夙簡清衷屬當憑几之辰實參交𢧐之地共推眇質獲¶
+夙簡清衷屬當憑几之辰實參交戦之地共推眇質獲¶
 奉慶基言念乃勞豈忘懋賞擇兹剛日聿降命書忠果¶
 雄勇宣力翊戴功臣侍衛親軍馬軍副都指揮使河西¶
 <pb:KR4d0066_WYG_015-14a>¶
